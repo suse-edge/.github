@@ -2,6 +2,4 @@
 
 SUSE Edge team GitHub repositories.
 
-* Unofficial documentation at [suse-edge.github.io](https://suse-edge.github.io/)
-
-See more at [SUSE Edge Computing Solutions](https://www.suse.com/solutions/edge-computing/)
+See the official documentation at [SUSE.com](https://documentation.suse.com/suse-edge/) and more about SUSE Edge at [SUSE Edge Computing Solutions](https://www.suse.com/solutions/edge-computing/)
